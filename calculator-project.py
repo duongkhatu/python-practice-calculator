@@ -110,4 +110,5 @@ def calculator():
 
 calculator()
 
+# This one here is my instructor's note:
 #You nailed it! Really like the way you carefully thought about different cases!
